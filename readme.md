@@ -8,4 +8,4 @@ DH Critical Making things
 6. tracery bots
 7. scalar
 8. p5 poetics
-9. [bitsy] (https://relizabur.github.io/secondtry/bitsyTrueColour)
+9. [bitsy](https://relizabur.github.io/secondtry/bitsyTrueColour)
