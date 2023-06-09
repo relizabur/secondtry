@@ -6,7 +6,7 @@ DH Critical Making things
 4. [twine](https://relizabur.github.io/secondtry/whatIfWeMetAtSorellina)
 5. cut-up poetry
 6. tracery bots
-7. scalar
+7. [scalar](https://scalar.usc.edu/works/a-new-tree-biology/index) 
 8. [p5 poetics](https://relizabur.github.io/secondtry/P5Cioran)
 9. [bitsy](https://relizabur.github.io/secondtry/bitsyTrueColour)
 10. repository
