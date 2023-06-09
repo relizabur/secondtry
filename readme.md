@@ -1,10 +1,10 @@
 DH Critical Making things
 
 1. sketches
-2. grids & gestures
+2. [grids & gestures](https://relizabur.github.io/secondtry/gridsgestures.jpg) 
 3. [physical hypertext](https://relizabur.github.io/secondtry/hypertext.jpg)
 4. [twine](https://relizabur.github.io/secondtry/whatIfWeMetAtSorellina)
-5. [cut-up poetry](https://relizabur.github.io/secondtry/smallcutuppoetry.jpg)
+5. [cut-up poetry](https://relizabur.github.io/secondtry/smallcutuppoetry.jpg) and a little erasure poetry, for a treat [here](https://relizabur.github.io/secondtry/erasure1.jpg) and [here](https://relizabur.github.io/secondtry/erasure2.jpg)
 6. [tracery bots](https://botsin.space/@rachelbot)  
 7. [scalar](https://scalar.usc.edu/works/a-new-tree-biology/index) 
 8. [p5 poetics](https://relizabur.github.io/secondtry/P5Cioran)
