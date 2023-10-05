@@ -10,3 +10,4 @@ DH Critical Making things
 8. [p5 poetics](https://relizabur.github.io/secondtry/P5Cioran)
 9. [bitsy](https://relizabur.github.io/secondtry/bitsyTrueColour)
 10. repository
+11. [twine experiment](https://relizabur.github.io/secondtry/twine_experiment)
